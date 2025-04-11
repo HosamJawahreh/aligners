@@ -1,0 +1,32 @@
+[26-Aug-2024 14:30:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/wcl2kbau/clients-clean/aligners.brand-makers.net/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/wcl2kbau/clients-clean/aligners.brand-makers.net/config/database.php on line 18
+[29-Aug-2024 14:50:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/wcl2kbau/clients-clean/lineup-aligners.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/wcl2kbau/clients-clean/lineup-aligners.com/config/database.php on line 18
+[24-Nov-2024 19:26:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/database.php on line 18
+[13-Jan-2025 23:53:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/app.php on line 16
+[26-Jan-2025 14:58:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/database.php on line 18
+[26-Jan-2025 14:58:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/app.php on line 16
+[26-Jan-2025 14:58:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/cache.php on line 18
+[27-Jan-2025 18:32:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/config/app.php on line 16

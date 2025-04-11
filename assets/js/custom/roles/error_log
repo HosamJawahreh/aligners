@@ -1,0 +1,9 @@
+[17-Feb-2025 22:47:26 America/Chicago] PHP Warning:  file_get_contents(/tmp/index.php): failed to open stream: No such file or directory in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/l.php on line 2
+[17-Feb-2025 22:47:26 America/Chicago] PHP Warning:  file_get_contents(/tmp/.htaccess): failed to open stream: No such file or directory in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/l.php on line 5
+[18-Feb-2025 21:25:34 America/Chicago] PHP Warning:  file_get_contents(/tmp/index.php): failed to open stream: No such file or directory in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/l.php on line 2
+[18-Feb-2025 21:25:34 America/Chicago] PHP Warning:  file_get_contents(/tmp/.htaccess): failed to open stream: No such file or directory in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/l.php on line 5
+[19-Feb-2025 09:13:42 America/Chicago] PHP Warning:  file_get_contents(/tmp/index.php): failed to open stream: No such file or directory in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/l.php on line 2
+[19-Feb-2025 09:13:42 America/Chicago] PHP Warning:  file_get_contents(/tmp/.htaccess): failed to open stream: No such file or directory in /home1/wcl2kbau/clients-clean/doctor.lineup-aligners.com/l.php on line 5
+[07-Mar-2025 03:59:36 America/Chicago] PHP Warning:  file_get_contents(/tmp/index.php): Failed to open stream: No such file or directory in /home3/etahaorg/doctor.lineup-aligners.com/l.php on line 2
+[12-Mar-2025 08:38:41 America/Chicago] PHP Warning:  file_get_contents(/tmp/index.php): Failed to open stream: No such file or directory in /home3/etahaorg/public_html/l.php on line 2
+[12-Mar-2025 08:38:41 America/Chicago] PHP Warning:  file_get_contents(/tmp/.htaccess): Failed to open stream: No such file or directory in /home3/etahaorg/public_html/l.php on line 5

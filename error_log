@@ -1,0 +1,62 @@
+[12-Mar-2025 19:53:45 America/Chicago] PHP Warning:  require(/home3/etahaorg/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/helpers.php): Failed to open stream: No such file or directory in /home3/etahaorg/public_html/vendor/composer/autoload_real.php on line 39
+[12-Mar-2025 19:53:45 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/etahaorg/public_html/vendor/composer/../laravel/framework/src/Illuminate/Support/helpers.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/etahaorg/public_html/vendor/composer/autoload_real.php:39
+Stack trace:
+#0 /home3/etahaorg/public_html/vendor/composer/autoload_real.php(43): {closure}('58571171fd5812e...', '/home3/etahaorg...')
+#1 /home3/etahaorg/public_html/vendor/autoload.php(25): ComposerAutoloaderInit669d38e30031896a955208d2049af333::getLoader()
+#2 /home3/etahaorg/public_html/index.php(34): require('/home3/etahaorg...')
+#3 {main}
+  thrown in /home3/etahaorg/public_html/vendor/composer/autoload_real.php on line 39
+[12-Mar-2025 19:59:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/etahaorg/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home3/etahaorg/public_html/artisan(20): require_once()
+#1 {main}
+  thrown in /home3/etahaorg/public_html/bootstrap/app.php on line 14
+[13-Mar-2025 17:52:43 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home3/etahaorg/test/doctors.lineup-aligners.com/vendor/composer/platform_check.php on line 28
+[13-Mar-2025 17:52:45 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home3/etahaorg/test/doctors.lineup-aligners.com/vendor/composer/platform_check.php on line 28
+[13-Mar-2025 17:52:46 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home3/etahaorg/test/doctors.lineup-aligners.com/vendor/composer/platform_check.php on line 28
+[13-Mar-2025 17:53:21 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home3/etahaorg/test/doctors.lineup-aligners.com/vendor/composer/platform_check.php on line 28
+[13-Mar-2025 17:53:22 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home3/etahaorg/test/doctors.lineup-aligners.com/vendor/composer/platform_check.php on line 28
+[13-Mar-2025 17:57:26 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home3/etahaorg/test/doctors.lineup-aligners.com/vendor/composer/platform_check.php on line 28
+[13-Mar-2025 17:57:27 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home3/etahaorg/test/doctors.lineup-aligners.com/vendor/composer/platform_check.php on line 28
+[14-Mar-2025 07:51:03 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[14-Mar-2025 07:51:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[14-Mar-2025 07:51:03 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[14-Mar-2025 07:51:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[14-Mar-2025 07:51:03 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[14-Mar-2025 07:51:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[14-Mar-2025 07:52:20 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[14-Mar-2025 07:52:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[14-Mar-2025 07:52:20 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[14-Mar-2025 07:52:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[14-Mar-2025 07:52:20 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[14-Mar-2025 07:52:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[14-Mar-2025 07:53:14 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[14-Mar-2025 07:53:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[14-Mar-2025 07:53:14 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[14-Mar-2025 07:53:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[14-Mar-2025 07:53:14 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[14-Mar-2025 07:53:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[14-Mar-2025 07:54:25 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[14-Mar-2025 07:54:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[14-Mar-2025 07:54:25 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[14-Mar-2025 07:54:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[14-Mar-2025 07:54:25 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[14-Mar-2025 07:54:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[17-Mar-2025 14:29:30 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[17-Mar-2025 14:29:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[17-Mar-2025 14:29:30 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[17-Mar-2025 14:29:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[17-Mar-2025 14:29:30 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[17-Mar-2025 14:29:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[17-Mar-2025 14:29:50 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[17-Mar-2025 14:29:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[17-Mar-2025 14:29:50 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[17-Mar-2025 14:29:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[17-Mar-2025 14:29:50 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[17-Mar-2025 14:29:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[17-Mar-2025 14:30:23 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[17-Mar-2025 14:30:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 76
+[17-Mar-2025 14:30:23 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[17-Mar-2025 14:30:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 77
+[17-Mar-2025 14:30:23 America/Chicago] PHP Warning:  Undefined array key "refLower" in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
+[17-Mar-2025 14:30:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/etahaorg/test/doctors.lineup-aligners.com/upload-pcs-files.php on line 78
